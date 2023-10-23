@@ -1,0 +1,33 @@
+
+img{ 
+     width: 10%;
+     object-fit: contain;
+}
+
+.navbar{
+
+      display: flex;
+      justify-content: space-around;  
+
+      box-shadow: 1px  5px 5px #F1EFEF;
+
+      
+}
+
+.nav-menu{
+    display: flex;
+    
+}
+
+
+li{
+    list-style: none;
+    margin-left: 15px;
+}
+
+a{
+    text-decoration: none; 
+
+    margin-left: 20px;
+}
+

@@ -1,0 +1,40 @@
+
+.signUp{
+  
+    /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBhhiEA6pc_cM2zvMEXgjjDtK9P1mImK8Ew&usqp=CAU"); */
+    background: url("https://sb.kaleidousercontent.com/133458/1482x1106/b861d37c98/screenshot-2022-09-14-at-10-22-47.png");
+    background-size: cover;
+    width: auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form{
+           background-color: #ddd1d1;
+           display: flex;
+           text-align: center;
+           justify-content: center;
+           flex-direction: column;
+           border-radius: 20px;
+  
+  }
+  
+  
+  .signUpLogo{
+        width: 200px;
+        object-fit: contain;
+        padding: 10px 0px; 
+        
+  
+  }
+  .loginPara{  
+      color: rgba(var(--f52,142,142,142,1));
+        font-weight: 600; 
+        font-size: 17px;
+        line-height: 20px;
+        margin: 0px 40px 20px 40px;
+  
+  
+  }

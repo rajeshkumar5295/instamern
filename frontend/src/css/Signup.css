@@ -1,0 +1,87 @@
+
+.signUp{
+  
+  /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyBhhiEA6pc_cM2zvMEXgjjDtK9P1mImK8Ew&usqp=CAU"); */
+  background: url("https://sb.kaleidousercontent.com/133458/1482x1106/b861d37c98/screenshot-2022-09-14-at-10-22-47.png");
+  background-size: cover;
+  width: auto;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form{
+         background-color: #fff;
+         display: flex;
+         text-align: center;
+         justify-content: center;
+         flex-direction: column;
+         border-radius: 20px;
+
+}
+
+
+.signUpLogo{
+      width: 200px;
+      object-fit: contain;
+      padding: 10px 0px; 
+      
+
+}
+.loginPara{  
+    color: rgba(var(--f52,142,142,142,1));
+      font-weight: 600; 
+      font-size: 17px;
+      line-height: 20px;
+      margin: 0px 40px 20px 40px;
+
+
+}
+
+/* 
+.fortext{
+  padding: 5px;
+  margin: 5px;
+} */
+input{
+  padding: 5px;
+  margin: 10px 0px;
+  outline: none;
+  width: 80%;
+  box-sizing: border-box;
+}
+#submit-btn{
+      background-color: #1773EA;
+      border: none;
+      border-radius: 3px;
+      color: white;
+      font-weight: bold;
+      margin-top: 5px;
+      width: 50%;
+      margin-left:80px;
+      margin-bottom: 5px; 
+      padding: 8px;
+
+}
+
+/* .form2{
+   background-color: #fff;
+   padding: 30px;
+} */
+
+
+/* .form-container{
+  
+      max-height: 100vh;
+      margin-top: 25px;
+      font-weight: 100;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+
+
+} */
